@@ -1,1 +1,1 @@
-<img src="https://cdn.pixabay.com/photo/2014/11/23/21/22/snake-543243_1280.jpg">
+<img src="https://www.opensourceforu.com/wp-content/uploads/2022/11/Python-programming-1.jpg">
